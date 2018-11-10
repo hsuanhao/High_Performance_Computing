@@ -6,4 +6,4 @@ In this repository, I put reports for final projects I completed when I took **C
 
 
 
-- [dft_project.pdf]():
+- [dft_project.pdf](https://github.com/hsuanhao/Computational_Physics/blob/master/dft_project.pdf):
