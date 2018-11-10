@@ -2,7 +2,7 @@
 
 In this repository, I put reports for final projects I completed when I took **Computational Physics** and **High Performance Computing 1** courses.
 
-1. [FinalExam_HsuanHaoFan.pdf]() : The report on final exam, including 4 problems, in **Computational Physics** course.
+1. [FinalExam_HsuanHaoFan.pdf](https://github.com/hsuanhao/Computational_Physics/blob/master/FinalExam_HsuanHaoFan.pdf) : The report on final exam, including 4 problems, in **Computational Physics** course.
 
 
 
